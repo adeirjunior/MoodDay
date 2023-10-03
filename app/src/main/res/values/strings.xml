@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MoodDay</string>
+    <string name="next">Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="back_button">Back</string>
+    <string name="screen_one">Screen One</string>
+    <string name="screen_two">Screen Two</string>
 </resources>
